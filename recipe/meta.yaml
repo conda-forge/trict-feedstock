@@ -1,5 +1,5 @@
 {% set name = "trict" %}
-{% set version = "0.1.5" %}
+{% set version = "0.1.6" %}
 
 
 package:
@@ -31,12 +31,11 @@ test:
     - pip
 
 about:
-  home: https://github.com/saskakarsi/trict
+  home: https://github.com/saska/trict
   summary: UserDict subclass with extra stuff
   license: MIT
-  # License file manually packaged. See: https://github.com/saskakarsi/trict/pull/6
   license_file: LICENSE
 
 extra:
   recipe-maintainers:
-    - saskakarsi
+    - saska
