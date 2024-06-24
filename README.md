@@ -1,7 +1,7 @@
 About trict
 ===========
 
-Home: https://github.com/saskakarsi/trict
+Home: https://github.com/saska/trict
 
 Package license: MIT
 
@@ -114,5 +114,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@saskakarsi](https://github.com/saskakarsi/)
+* [@saska](https://github.com/saska/)
 
