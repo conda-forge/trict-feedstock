@@ -1,5 +1,5 @@
 {% set name = "trict" %}
-{% set version = "0.1.5" %}
+{% set version = "0.1.6" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/trict-{{ version }}.tar.gz
-  sha256: 5e03f90ce7fac44630fcf1063e236ff0aac9071e0f8eb74d7ce631578cc2e5d8
+  sha256: 593a016ce17d8e6e3d83fa9c732d09ffa44424568a7150d07423f6fec655bca8
 
 build:
   number: 0
